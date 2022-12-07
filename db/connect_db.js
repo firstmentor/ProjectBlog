@@ -1,7 +1,7 @@
 const mongoose=require("mongoose")
 
 // Line 4 for Cloud DB
-const database="mongodb+srv://sidaesth:infosys12@cluster0.zutbl.mongodb.net/blogweb?retryWrites=true&w=majority"
+const database="mongodb+srv://admission123:vikas123@cluster0.b0ibf.mongodb.net/blog?retryWrites=true&w=majority"
 
 
 const connectDB=()=>{
